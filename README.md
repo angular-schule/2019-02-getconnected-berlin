@@ -1,5 +1,11 @@
 # PizzaOrder
 
+Demo-App für den Talk "Moderne Webentwicklung mit Angular" von Ferdinand Malcher auf dem JUG Saxony Day 2018
+
+[Folien zum Talk](http://bit.ly/angular-gc19)
+
+----------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
 ## Development server
