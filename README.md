@@ -1,6 +1,6 @@
 # PizzaOrder
 
-Demo-App für den Talk "Moderne Webentwicklung mit Angular" von Ferdinand Malcher auf dem JUG Saxony Day 2018
+Demo-App für den Talk "Moderne Webentwicklung mit Angular" von Ferdinand Malcher auf der getConnected() Entwicklerkonferenz in Berlin (Februar 2019)
 
 [Folien zum Talk](http://bit.ly/angular-gc19)
 

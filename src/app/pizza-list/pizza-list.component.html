@@ -1,0 +1,10 @@
+<gc-pizza-item
+  [pizza]="p"
+  (order)="addOrder($event)"
+  *ngFor="let p of pizzas"></gc-pizza-item>
+
+<h1>Orders</h1>
+
+<ul>
+  <li *ngFor="let o of orderList">{{ o.name }} ({{ o.price }})</li>
+</ul>
